@@ -1,0 +1,7 @@
+Main Menu
+800000
+
+submenu
+#FFDEA
+Width 180
+height 22
